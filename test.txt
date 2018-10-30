@@ -1,2 +1,3 @@
 this is a test file.
 git is great.
+now, working in dev. But master have a bug.
